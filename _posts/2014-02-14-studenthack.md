@@ -60,8 +60,8 @@ One of the teams who didn't make it to the finalist phase congratulated my team 
 
 That's when I understood. StudentHack isn't about winning. I'm not saying their prizes aren't amazing, MusicalPackets ended up being the only team that won two prizes:
 
-- Best Use of MongoHQ: $100 MongoHQ credit, ��20 pounds Amazon voucher, Mongo T-shirt
-- Best Fresher Hack: ��100 Amazon Voucher
+- Best Use of MongoHQ: $100 MongoHQ credit, $20 pounds Amazon voucher, Mongo T-shirt
+- Best Fresher Hack: $100 Amazon Voucher
 
 *(By the way, the gifts above were for each person in the team, not for the whole team.)*
   
