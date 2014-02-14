@@ -20,7 +20,7 @@ I'm usually only initially shy, so I just sat there staring at the tables that h
 
 Less than an hour later, we stood in the check-in line, grabbed our wristbands (which, at the moment, I have two of on my bagpack), t-shirts and courage. We walked towards the room where the introduction talk was being held, took our seats and waited silently and excitedly. When [Bilawal Hameed](http://twitter.com/bilawalhameed), the co-founder of StudentHack, came up and spoke with enthusiasm about StudentHack's history and what they intend to do. But what really caught my attention, was #concierge.
 
-{% include image.html url="/media/2014-02-14-studenthack/check-in.jpg" width="100%" description="The bright hall in which most of the attendees spent the weekend hacking" %}
+{% include image.html url="/media/2014-02-14-studenthack/check-in.jpg" width="100%" description="The check-in line where we got our wristbands and t-shirts." %}
 
 StudentHack had an idea and it was called the #concierge, and the best part? It was crazy as it sounded, and it was pretty much as epic as it sounded too. All StudentHack attendees were allowed to tweet: "@StudentHack #concierge" followed by any question or request, and the StudentHack staff would attend to you in a maximum of five minutes. I'll give you a few examples.
 
@@ -60,8 +60,8 @@ One of the teams who didn't make it to the finalist phase congratulated my team 
 
 That's when I understood. StudentHack isn't about winning. I'm not saying their prizes aren't amazing, MusicalPackets ended up being the only team that won two prizes:
 
-- Best Use of MongoHQ: $100 MongoHQ credit, $20 pounds Amazon voucher, Mongo T-shirt
-- Best Fresher Hack: $100 Amazon Voucher
+- Best Use of MongoHQ: $100 MongoHQ credit, £20 pounds Amazon voucher, Mongo T-shirt
+- Best Fresher Hack: £100 Amazon Voucher
 
 *(By the way, the gifts above were for each person in the team, not for the whole team.)*
   
