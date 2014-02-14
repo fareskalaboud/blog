@@ -26,9 +26,11 @@ When [Bilawal Hameed](http://twitter.com/bilawalhameed), the founder of StudentH
 
 StudentHack had an idea and it was called the #concierge, and the best part? It was crazy as it sounded, and it was pretty much as epic as it sounded too. All StudentHack attendees were allowed to tweet: "@StudentHack #concierge" followed by any question or request, and the StudentHack staff would attend to you in a maximum of five minutes. I'll give you a few examples.
 
+I sent the following, got up to get a Kitkat, came back and there was a bottle of water on my table. The whiteboard came a few minutes later.
+
 {% include image.html url="/media/2014-02-14-studenthack/Whiteboard.png" width="100%"%}
 
-I sent the following, got up to get a Kitkat, came back and there was a bottle of water on my table. The whiteboard came a few minutes later.
+Here's a few more examples.
 
 {% include image.html url="/media/2014-02-14-studenthack/conciergePizza.png" width="100%" description="A reply within five minutes! Boom!" %}
 
