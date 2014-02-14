@@ -40,7 +40,7 @@ Here's a few more examples.
 
 {% include image.html url="/media/2014-02-14-studenthack/conciergeNerfGun.png" width="100%" description="" %}
 
-And the hilarious thing is, all of these requests (including [@Spoffeh](http:twitter.com/spoffeh)'s nerf gun target) were provided. If a certain type of chocolate requested wasn't available, one of the staff would run to a closely small supermarket and buy it for them. 
+And the hilarious thing is, all of these requests (including [@Spoffeh](http:twitter.com/spoffeh)'s nerf gun target) were provided. If a certain type of chocolate requested wasn't available, one of the staff would run to a closeby small supermarket and buy it for them. 
 
 The generosity of StudentHack was a completely different story. Especially the food. Without exaggeration:
 
