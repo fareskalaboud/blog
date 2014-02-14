@@ -73,6 +73,6 @@ But the point is, it's about meeting new people, learning new things and gaining
 
 StudentHack is exactly what every hackathon should be like.
 
-You can see our finalist presentation here.
+You can see our finalist presentation [here](https://docs.google.com/file/d/0B8YIJESCOtaONjdmdXdkOG54bHM).
 
 Check out StudentHack's [Facebook page](http://facebook.com/StudentHack) for all of the pictures, [and follow them on Twitter](https://twitter.com/StudentHack)!
