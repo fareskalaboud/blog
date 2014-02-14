@@ -12,7 +12,7 @@ I arrived in Manchester at 7:28pm on Friday night after the bumpy ride from Lond
 
 At around 6am, I woke up without my alarm going off. I know it's because my blood is fizzing with excitement. I took a shower, got dressed, dressed my best and left the hotel. It felt like I was walking to a merge of an exam and a wedding, where everyone would stare at me and expect me to do my best, where I would be judged on my performance and appearance. When I finally found the venue after around a half hour walk of being lost, I saw a beautiful glass building and thought: "I wish the hackathon was in there". I thought the building was so pretty that I decided I'll walk into there, because it had the Manchester Metropolitan University logo on it, and I knew that the university was hosting [StudentHack](http://studenthack.com). I just needed to find out in which of it's many buildings it was going to be.
 
-Being as lost as I was, I found the side entrance walked into the building looking for someone to ask where StudentHack was held, when I saw the StudentHack banner. Behind that, I saw a massive vertical hall dominated by spacious round tables. I was somewhat early, but there was already around sixty or so students spread among the tables like children among toys on a playground. I sensed the thrill in everyone's low voices, but didn't have the courage to introduce myself. I was still waiting for [Mustafa](http://twitter.com/musalbas), a close friend who agreed to come to StudentHack with me. I silently walked up to a round table that had no one on it, and sat on my own for about two minutes, just taking note of my surroundings. The hall spread out with lecture halls and study rooms on either side, a glass wall at the end of it, and a glass ceiling above it. The sunlight coming in through the multitude of glass panels was making the place look brighter and brighter. 
+Being as lost as I was, I found the side entrance walked into the building looking for someone to ask where StudentHack was held, when I saw the StudentHack banner. Behind that, I saw a massive vertical hall dominated by spacious round tables. I was somewhat early, but there was already around sixty or so students spread among the tables like children among toys on a playground. I sensed the thrill in everyone's low voices, but didn't have the courage to introduce myself. I was still waiting for [Mustafa](http://musalbas.com), a close friend who agreed to come to StudentHack with me. I silently walked up to a round table that had no one on it, and sat on my own for about two minutes, just taking note of my surroundings. The hall spread out with lecture halls and study rooms on either side, a glass wall at the end of it, and a glass ceiling above it. The sunlight coming in through the multitude of glass panels was making the place look brighter and brighter. 
 
 {% include image.html url="/media/2014-02-14-studenthack/hall.jpg" width="100%" description="The bright hall in which most of the attendees 'hacked'" %}
 
@@ -20,7 +20,7 @@ I'm usually only initially shy, so I just sat there staring at the tables that h
 
 Less than an hour later, we stood in the check-in line, grabbed our wristbands (which, at the moment, I have two of on my bagpack), t-shirts and courage. We walked towards the room where the introduction talk was being held, took our seats and waited silently and excitedly. When [Bilawal Hameed](http://twitter.com/bilawalhameed), the co-founder of StudentHack, came up and spoke with enthusiasm about StudentHack's history and what they intend to do. But what really caught my attention, was #concierge.
 
-{% include image.html url="/media/2014-02-14-studenthack/check-in.jpg" width="100%" description="The bright hall in which most of the attendees 'hacked'" %}
+{% include image.html url="/media/2014-02-14-studenthack/check-in.jpg" width="100%" description="The bright hall in which most of the attendees spent the weekend hacking" %}
 
 StudentHack had an idea and it was called the #concierge, and the best part? It was crazy as it sounded, and it was pretty much as epic as it sounded too. All StudentHack attendees were allowed to tweet: "@StudentHack #concierge" followed by any question or request, and the StudentHack staff would attend to you in a maximum of five minutes. I'll give you a few examples.
 
@@ -51,7 +51,7 @@ The most incredible part of the whole event is the supporting and friendly atmos
 
 My team was called [MusicalPackets](https://github.com/fareskalaboud/musicalpackets), and we developed an app that runs on a local web browser that converts live traffic data into music. It was a brilliant idea (thank you Mustafa) and, out of approximately thirty teams, we were one of the ten that made it to the finals. 
 
-{% include image.html url="/media/2014-02-14-studenthack/coding.png" width="100%" description="Coding the weekend away. From left to right: Callum Spawforth, Mustafa Al-Bassam & me" %}
+{% include image.html url="/media/2014-02-14-studenthack/coding.jpg" width="100%" description="Coding the weekend away. From left to right: Callum Spawforth, Mustafa Al-Bassam & me" %}
 
 
 One of the teams who didn't make it to the finalist phase congratulated my team for making the finals, and I asked if they did and they said no. Naturally (and stupidly), I asked if they were leaving. Their response was this: 
@@ -60,8 +60,8 @@ One of the teams who didn't make it to the finalist phase congratulated my team 
 
 That's when I understood. StudentHack isn't about winning. I'm not saying their prizes aren't amazing, MusicalPackets ended up being the only team that won two prizes:
 
-- Best Use of MongoHQ: $100 MongoHQ credit, £20 pounds Amazon voucher, Mongo T-shirt
-- Best Fresher Hack: £100 Amazon Voucher
+- Best Use of MongoHQ: $100 MongoHQ credit, ��20 pounds Amazon voucher, Mongo T-shirt
+- Best Fresher Hack: ��100 Amazon Voucher
 
 *(By the way, the gifts above were for each person in the team, not for the whole team.)*
   
