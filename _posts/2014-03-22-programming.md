@@ -34,7 +34,7 @@ The good news is, once you've learned a language like PHP, Python, Ruby, JavaScr
 
 A loop is similar, except that it's like asking keep asking "Is it snowing? Is it still snowing? Is it still snowing? Is it still snowing?" until it finds out that it's not longer snowing, so it exits the loop.
 
-<div class="message">while (isSnowing)<br>    classesAreCancelled = true</div>
+<div class="message">while (isSnowing)<br>&nbsp;&nbsp;&nbsp;&nbsp;classesAreCancelled = true</div>
 
 There you go, that's two of the "difficult" things to understand in programming.
 
