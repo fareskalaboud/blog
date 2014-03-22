@@ -30,7 +30,7 @@ When it comes to "what languages are best to start with", it really depends on w
 
 The good news is, once you've learned a language like PHP, Python, Ruby, JavaScript, Java, Objective-C even VB.NET, every other language becomes a tenth as difficult to learn. The difficult things to learn are the different processes of thinking and of logic used, things like conditionals or loops. For example, a conditional is a statement that depends on a truth value, like:
 
-<div class="message">if (isSnowing)<br>    classesAreCancelled = true <br>else<br>    classesAreCancelled = false</div>
+<div class="message">if (isSnowing)<br>&nbsp;&nbsp;&nbsp;&nbsp;classesAreCancelled = true <br>else<br>&nbsp;&nbsp;&nbsp;&nbsp;classesAreCancelled = false</div>
 
 A loop is similar, except that it's like asking keep asking "Is it snowing? Is it still snowing? Is it still snowing? Is it still snowing?" until it finds out that it's not longer snowing, so it exits the loop.
 
